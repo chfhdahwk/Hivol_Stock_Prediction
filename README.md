@@ -1,5 +1,5 @@
 # Hivol_Stock_Prediction
-Development of stock trading system based on neural network using highly volatile stock price patterns
+Highly volatile stock price patterns prediction model project
 
 
 We developed a stock price prediction model using high fluctuation patterns and used the DNN structure. 
